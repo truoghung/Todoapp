@@ -208,3 +208,5 @@ const styles = StyleSheet.create ({
 		color: 'white',
 	},
 	});
+
+git tag <thaiadang>
